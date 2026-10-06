@@ -11,6 +11,7 @@ This project was created as part of my SQL learning and practice for developing 
 ---
 ## Dataset used
 - <a href="https://github.com/Premkumar50/My_First_SQL_Assinmet_Practice/blob/main/Assinment%20Practice%20File..sql">Practice File</a>
+- <a herf="https://github.com/Premkumar50/My_First_SQL_Assinmet_Practice/blob/main/SQL%20Assinmet%20Complet.sql">Complete Assignmet</a>
 
 ## 🛠️ Tools & Technologies
 
