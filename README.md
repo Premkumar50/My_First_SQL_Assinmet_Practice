@@ -9,6 +9,8 @@ In this project, I created an `employeex` table, inserted employee records, and 
 This project was created as part of my SQL learning and practice for developing skills required for a **Data Analyst** role.
 
 ---
+## Dataset used
+- <a href="https://github.com/Premkumar50/Sales-And-Profit-Analysis/blob/main/Sales%20and%20Profit%20Analisis.xlsx">Dataset</a>
 
 ## 🛠️ Tools & Technologies
 
