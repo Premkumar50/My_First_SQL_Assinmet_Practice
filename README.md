@@ -10,7 +10,7 @@ This project was created as part of my SQL learning and practice for developing 
 
 ---
 ## Dataset used
-- <a href="https://github.com/Premkumar50/Sales-And-Profit-Analysis/blob/main/Sales%20and%20Profit%20Analisis.xlsx">Dataset</a>
+- <a href="https://github.com/Premkumar50/My_First_SQL_Assinmet_Practice/blob/main/Assinment%20Practice%20File..sql">Practice File</a>
 
 ## 🛠️ Tools & Technologies
 
